@@ -1,3 +1,5 @@
+package main
+
 // Create a fizzbuzz application with a little twist.
 // 1. User provides upper limit of values to test.
 // 2. User provides a value that we will do prime factorization on (https://mathworld.wolfram.com/PrimeFactorization.html).

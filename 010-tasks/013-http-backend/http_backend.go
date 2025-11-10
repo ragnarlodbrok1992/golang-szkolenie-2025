@@ -1,3 +1,5 @@
+package main
+
 // Create a basic HTTP backend server in Go.
 // 1. The program should listen to requests on some port (ex. 8080) and accept incoming http requests.
 // 2. Application should provide routing to specific paths.
