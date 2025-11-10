@@ -47,4 +47,13 @@ func main() {
 	fmt.Println("Before call to Wait() in WaitGroup...")
 	wait_group.Wait()
 	fmt.Println("After call to Wait() in WaitGroup!")
+
+	// Goroutines
+	PrintGoroutinesLesson()
+
+	// Channels
+	PrintChannelsLesson()
+
+	// Channels - chapter 2
+	PrintChannelsSecondLesson()
 }
